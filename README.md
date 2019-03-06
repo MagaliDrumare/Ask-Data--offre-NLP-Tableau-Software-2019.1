@@ -27,7 +27,7 @@ https://www.lemagit.fr/actualites/450424243/Tableau-veut-comprendre-les-requetes
 - Ask Data en 60 secondes : https://www.youtube.com/watch?v=m_9Zw6LMNrw 
 - Intro to Ask Data in Tableau : https://www.youtube.com/watch?v=27aIgkNyVa0
 
-## Points différentiants de la concurrence : 
+## Points différenciants de la concurrence : 
 - Facile à utiliser pour obtenir des réponses complexes. 
 - Fonctionne sur site (On-premise) et dans le Cloud. 
 - Pas de préparation au préalable des données, pas de modélisation et pas d'ajout de la sémantique avant de pouvoir poser les questions. 
