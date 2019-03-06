@@ -31,5 +31,5 @@ https://www.lemagit.fr/actualites/450424243/Tableau-veut-comprendre-les-requetes
 - Facile à utiliser pour obtenir des réponses complexes. 
 - Fonctionne sur site (On-premise) et dans le Cloud. 
 - Pas de préparation au préalable des données, pas de modélisation et pas d'ajout de la sémantique avant de pouvoir poser les questions. 
-- Ask Data fonctionne avec toutes les données que Tableau prend déjà en charge, là où elles sont. Tableau supporte plus de 65 sources de données différentes. 
-- La première version est en anglais. Le français, l'allemand et l'espagnol sont sur la feuille de route. 
+- Ask Data fonctionne avec toutes les données que Tableau prend déjà en charge, là où elles sont centralisées (Tableau Server). Tableau supporte plus de 65 sources de données différentes. 
+- La première version est en anglais. Le français, l'allemand et l'espagnol sont sur la feuille de route de Tableau. 
