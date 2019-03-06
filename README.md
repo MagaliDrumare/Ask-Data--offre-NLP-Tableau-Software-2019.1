@@ -6,8 +6,10 @@
 et aux analystes de gagner du temps dans l'exploration des données. 
 
 ## Ask Data est disponible sans frais supplémentaire sur Tableau Server et Tableau Online 2019.1 depuis le 13 fevrier 2019. 
-- Tableau Server et Tableau Online 2019.1 sont en téléchargement gratuit sur le site Tableau: https://www.tableau.com/support/releases
-- Prix et licences Tableau: https://www.tableau.com/fr-fr/pricing/teams-orgs
+- Tableau Server et Tableau Online 2019.1 sont en téléchargement gratuit sur le site Tableau: 
+https://www.tableau.com/support/releases
+- Prix et licences Tableau: 
+https://www.tableau.com/fr-fr/pricing/teams-orgs
 
 
 ## Revue de presse : 
